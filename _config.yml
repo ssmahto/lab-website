@@ -1,1 +1,6 @@
+title: "GOAL Lab"
+description: "Geospatial Observations and Application Lab"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
